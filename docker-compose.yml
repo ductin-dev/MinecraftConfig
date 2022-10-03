@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+  minecraft:
+    image: itzg/minecraft-server
+    volumes:
+      - minecraftdata:/data
+      - /usr/games/Minecraft/plugins:/plugins
+    ports:
+      - 25565:25565
+    environment:
+      EULA: "TRUE"
+      TYPE: "BUKKIT"
+      ONLINE_MODE: "FALSE"
+      MEMORY: "4G"
+      VERSION: "LATEST"
+      
+      OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
+      ICON: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/IMG_20201010_164921.jpg"
+      OVERRIDE_ICON : TRUE
+
+      # ENABLE_WHITELIST: "TRUE"
+      # ENFORCE_WHITELIST: "TRUE"
+    tty: TRUE
+    stdin_open: TRUE
+    restart: unless-stopped
+volumes:
+  minecraftdata:
+    external: true
