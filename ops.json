@@ -1,0 +1,12 @@
+[
+  {
+    "uuid": "UUID-goes-here",
+    "name": "satellite1012",
+    "level": 4
+  },
+  {
+    "uuid": "UUID-goes-here",
+    "name": "user1",
+    "level": 4
+  }
+]
