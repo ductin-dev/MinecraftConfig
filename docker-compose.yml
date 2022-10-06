@@ -19,9 +19,10 @@ services:
       ICON: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/IMG_20201010_164921.jpg"
       OVERRIDE_ICON : "TRUE"
       OVERRIDE_OPS : "TRUE"
-      
+
       SPAWN_PROTECTION : "5"
-      
+      ENABLE_COMMAND_BLOCK : "TRUE"
+
       # ENABLE_WHITELIST: "TRUE"
       # ENFORCE_WHITELIST: "TRUE"
     tty: TRUE
