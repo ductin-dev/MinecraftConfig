@@ -36,4 +36,6 @@
 
 - Copy thư mục resourcepacks và shaderpacks -> bỏ vào thư mục game
 
+- Vào thư mục ./resourcepacks/.. và giải nén toàn bộ thư mục con bên trong (mỗi thư mục con tương ứng 1 pack khác nhau). Lưu ý: Không cần giải nén thư mục shaderpacks
+
 - Khởi động game và vào menu resourcepack chọn pack phù hợp, tương tự với shader
