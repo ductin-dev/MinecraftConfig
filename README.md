@@ -14,7 +14,7 @@
 - Nhập IP: 144.91.104.7:25565
 - Bắt đầu game
 
-## Plugins
+## Mods
 
 - DeadChest: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung, tuy nhiên bạn chỉ có 5 phút để quay lại chỗ mình chết và click vào rương trước khi nó thật sự biến mất
 
@@ -31,3 +31,9 @@
 - Dungeons: Thêm Dungeons và Structure
 
 - ...+6 Others Mods
+
+## Resource Pack + Shader (For 3D & RTX) [OPTIONAL]
+
+- Copy thư mục resourcepacks và shaderpacks -> bỏ vào thư mục game
+
+- Khởi động game và vào menu resourcepack chọn pack phù hợp, tương tự với shader
