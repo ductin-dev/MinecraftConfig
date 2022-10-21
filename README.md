@@ -1,5 +1,5 @@
 # MinecraftConfig
-## Install Guide (for clients)
+## Install Guide (for clients) [REQUIRED]
 
 - Tải và cài đặt TLaucher
 - Cài đặt Forge tại thư mục ./forge-<version>-installer.jar ở github
@@ -7,7 +7,15 @@
 - Khi game khởi động xong, chọn Mod > Open Mod Folder
 - Copy toàn bộ file ở thư mục ./mods/ vào trong thư mục mod của game vừa được mở
 - Khởi động lại game
+  
+## Resource Pack + Shader (For 3D & RTX) [OPTIONAL]
 
+- Copy thư mục resourcepacks và shaderpacks -> bỏ vào thư mục game
+
+- Vào thư mục ./resourcepacks/.. và giải nén toàn bộ thư mục con bên trong (mỗi thư mục con tương ứng 1 pack khác nhau). Lưu ý: Không cần giải nén thư mục shaderpacks
+
+- Khởi động game và vào menu resourcepack chọn pack phù hợp, tương tự với shader
+  
 ## Connection (for clients)
 
 - Khởi động Minecraft > Chọn Multiplayer > Add a Server
@@ -31,11 +39,3 @@
 - Dungeons: Thêm Dungeons và Structure
 
 - ...+6 Others Mods
-
-## Resource Pack + Shader (For 3D & RTX) [OPTIONAL]
-
-- Copy thư mục resourcepacks và shaderpacks -> bỏ vào thư mục game
-
-- Vào thư mục ./resourcepacks/.. và giải nén toàn bộ thư mục con bên trong (mỗi thư mục con tương ứng 1 pack khác nhau). Lưu ý: Không cần giải nén thư mục shaderpacks
-
-- Khởi động game và vào menu resourcepack chọn pack phù hợp, tương tự với shader
