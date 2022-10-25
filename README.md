@@ -24,18 +24,23 @@
 
 ## Mods
 
-- DeadChest: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung, tuy nhiên bạn chỉ có 5 phút để quay lại chỗ mình chết và click vào rương trước khi nó thật sự biến mất
-
-- GodItems: Sẽ có tỉ lệ 2% các quái vật thông thường được replace bằng siêu quái vật, tiêu diệt chúng để có được những siêu vũ khí
+- DeadChest: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung.
 
 - HealthBar: Hiển thị thanh máu của người chơi và các sinh vật khi bạn tấn công chúng
 
-- TabLocation: Ấn phím Tab hoặc E để xem vị trí hiện tại của bạn và đồng minh, giúp các bạn dễ dàng di chuyển gần nhau
+- Minimap: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
 
-- TrollingFreedom: Mỗi 2 phút, 5 phút hoặc trong vòng 10 phút, sẽ có 1 trong số 17 sự kiện bất ngờ gây nguy hiểm cho 1 người chơi bất kỳ, hãy cẩn thận
+- Mob Boss: Thêm Mobs, Quái Vật, Items
 
-- Mob Boss: Thêm Mobs, Items
+- Dungeons: Thêm Dungeons và Structure nhiều hơn ở cả Overworld và Nether
 
-- Dungeons: Thêm Dungeons và Structure
+- XP Mods: Máy Sinh XP, click chuột để nhật XP Free
+
+- Teleporation: Cho phép bạn teleport tới vị trí một người chơi khác, câu lệnh: 
+  + /tpa (username) - Gửi Requests teleport
+  + /tpahere (username) - Gửi Requests để người chơi khác teleport tới bạn
+  + /tpaccept - Chấp nhận teleport requests.
+
+- Second Chance: Khi bạn sắp chết, bạn sẽ có 1 cơ hội thứ hai và hồi lại một lượng máu nhỏ. Khi bạn tiếp tục hết máu thì bạn sẽ thực sự chết
 
 - ...+6 Others Mods
