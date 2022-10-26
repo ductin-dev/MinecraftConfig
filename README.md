@@ -43,7 +43,7 @@
 
 - **Random TP**: sử dụng lệnh /rtp để teleport tới vị trí ngẫu nhiên và lệnh /rtpd để teleport tới vị trí ngẫu nhiên xuyên không gian
   
-- **Doctor WHO**: Khi bạn sắp chết, cho bạn một cơ hội thứ 2
+- **Doctor WHO**: Khi bạn sắp chết, cho bạn một cơ hội thứ 2 kèm với 1 hiệu ứng giúp bạn làm lại cuộc đời
   
 - **Easy Magic**: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
   + **Dependency Mod**: Puzzles Lib
