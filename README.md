@@ -23,24 +23,36 @@
 - Bắt đầu game
 
 ## Mods
-
+- Alexs Mobs: Thêm Mobs, Quái Vật, Items
+  * Dependency Mod: Citadel
+  
 - DeadChest: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung.
-
+  * Dependency Mod: Collective
+  
+- Dungeons Plus: Thêm Dungeons và Structure nhiều hơn ở cả Overworld và Nether
+  
+- Falling Tree: Chặt cây nhanh hơn nếu sử dụng rìu
+  
+- Global XP: Máy Sinh XP, click chuột để nhật XP Free
+ 
+- JEI (Just Enought Item): Hiển thị toàn bộ item và công thức chế tạo
+  
 - HealthBar: Hiển thị thanh máu của người chơi và các sinh vật khi bạn tấn công chúng
 
-- Minimap: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
+- Xaeros Minimap: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
+  
+- Totw (Tower of the Wild): Thêm các toà tháp ở toàn bộ thế giới
+  * Additional Mod: Totw_Additions
 
-- Mob Boss: Thêm Mobs, Quái Vật, Items
+- Random TP: sử dụng lệnh /rtp để teleport tới vị trí ngẫu nhiên và lệnh /rtpd để teleport tới vị trí ngẫu nhiên xuyên không gian
+  
+- Seft-Regenerative: Cho bạn khả năng tự hồi một lượng máu nhỏ trong một thời gian dài (Seft - Healling)
+  
+- Easy Magic: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
+_____________________________________________________________________________________
+  
+- Structure Gel: Không biết là cái gì nhưng nếu xoá đi server crash
 
-- Dungeons: Thêm Dungeons và Structure nhiều hơn ở cả Overworld và Nether
-
-- XP Mods: Máy Sinh XP, click chuột để nhật XP Free
-
-- Teleporation: Cho phép bạn teleport tới vị trí một người chơi khác, câu lệnh: 
-  + /tpa (username) - Gửi Requests teleport
-  + /tpahere (username) - Gửi Requests để người chơi khác teleport tới bạn
-  + /tpaccept - Chấp nhận teleport requests.
-
-- Second Chance: Khi bạn sắp chết, bạn sẽ có 1 cơ hội thứ hai và hồi lại một lượng máu nhỏ. Khi bạn tiếp tục hết máu thì bạn sẽ thực sự chết
-
-- ...+6 Others Mods
+- Clumps Forge: Giảm thiểu animation từ XP rơi ra khi giết sinh vật, giảm lag server
+  
+- Optifine: Mod đồ hoạ, RTX, Hỗ trợ Shaders, Ấn C để Zoom
