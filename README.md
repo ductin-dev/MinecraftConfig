@@ -47,6 +47,8 @@
   
 - **Easy Magic**: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
   + **Dependency Mod**: Puzzles Lib
+  
+- **Iron Chest Restocked**: Cung cấp thêm rương các loại và chìa khoá, nhiều không gian lưu trữ hơn
 _____________________________________________________________________________________
   
 - **Structure Gel**: Không biết là cái gì nhưng nếu xoá đi server crash
