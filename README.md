@@ -40,13 +40,10 @@
 - **HealthBar**: Hiển thị thanh máu của người chơi và các sinh vật khi bạn tấn công chúng
 
 - **Xaeros Minimap**: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
-  
-- **Totw (Tower of the Wild)**: Thêm các toà tháp ở toàn bộ thế giới
-  + **Additional Mod**: Totw_Additions
 
 - **Random TP**: sử dụng lệnh /rtp để teleport tới vị trí ngẫu nhiên và lệnh /rtpd để teleport tới vị trí ngẫu nhiên xuyên không gian
   
-- **Seft-Regenerative**: Cho bạn khả năng tự hồi một lượng máu nhỏ trong một thời gian dài (Seft - Healling)
+- **Doctor WHO**: Khi bạn sắp chết, cho bạn một cơ hội thứ 2
   
 - **Easy Magic**: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
   + **Dependency Mod**: Puzzles Lib
