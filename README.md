@@ -23,36 +23,37 @@
 - Bắt đầu game
 
 ## Mods
-- Alexs Mobs: Thêm Mobs, Quái Vật, Items
-  * Dependency Mod: Citadel
+- **Alexs Mobs**: Thêm Mobs, Quái Vật, Items
+  + **Dependency Mod**: Citadel
   
-- DeadChest: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung.
-  * Dependency Mod: Collective
+- **DeadChest**: Khi chết đồ của player sẽ được gom vào rương, không bao giờ bị biến mất hay rớt lung tung.
+  + **Dependency Mod**: Collective
   
-- Dungeons Plus: Thêm Dungeons và Structure nhiều hơn ở cả Overworld và Nether
+- **Dungeons Plus**: Thêm Dungeons và Structure nhiều hơn ở cả Overworld và Nether
   
-- Falling Tree: Chặt cây nhanh hơn nếu sử dụng rìu
+- **Falling Tree**: Chặt cây nhanh hơn nếu sử dụng rìu
   
-- Global XP: Máy Sinh XP, click chuột để nhật XP Free
+- **Global XP**: Máy Sinh XP, click chuột để nhật XP Free
  
-- JEI (Just Enought Item): Hiển thị toàn bộ item và công thức chế tạo
+- **JEI (Just Enought Item)**: Hiển thị toàn bộ item và công thức chế tạo
   
-- HealthBar: Hiển thị thanh máu của người chơi và các sinh vật khi bạn tấn công chúng
+- **HealthBar**: Hiển thị thanh máu của người chơi và các sinh vật khi bạn tấn công chúng
 
-- Xaeros Minimap: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
+- **Xaeros Minimap**: Minimap được hiển thị, ấn U để thêm địa điểm yêu thích, Y để mở setting
   
-- Totw (Tower of the Wild): Thêm các toà tháp ở toàn bộ thế giới
-  * Additional Mod: Totw_Additions
+- **Totw (Tower of the Wild)**: Thêm các toà tháp ở toàn bộ thế giới
+  + **Additional Mod**: Totw_Additions
 
-- Random TP: sử dụng lệnh /rtp để teleport tới vị trí ngẫu nhiên và lệnh /rtpd để teleport tới vị trí ngẫu nhiên xuyên không gian
+- **Random TP: sử dụng lệnh /rtp để teleport tới vị trí ngẫu nhiên và lệnh /rtpd để teleport tới vị trí ngẫu nhiên xuyên không gian
   
-- Seft-Regenerative: Cho bạn khả năng tự hồi một lượng máu nhỏ trong một thời gian dài (Seft - Healling)
+- **Seft-Regenerative: Cho bạn khả năng tự hồi một lượng máu nhỏ trong một thời gian dài (Seft - Healling)
   
-- Easy Magic: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
+- **Easy Magic: Cung cấp thêm một số tính năng cho bàn phù phép, giúp bạn cường hoá đồ dế dàng hơn
+  + **Dependency Mod**: Puzzles Lib
 _____________________________________________________________________________________
   
-- Structure Gel: Không biết là cái gì nhưng nếu xoá đi server crash
+- **Structure Gel**: Không biết là cái gì nhưng nếu xoá đi server crash
 
-- Clumps Forge: Giảm thiểu animation từ XP rơi ra khi giết sinh vật, giảm lag server
+- **Clumps Forge**: Giảm thiểu animation từ XP rơi ra khi giết sinh vật, giảm lag server
   
-- Optifine: Mod đồ hoạ, RTX, Hỗ trợ Shaders, Ấn C để Zoom
+- **Optifine**: Mod đồ hoạ, RTX, Hỗ trợ Shaders, Ấn C để Zoom
