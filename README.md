@@ -4,9 +4,14 @@
 - Cài đặt TLaucher https://tlauncher.org/en
 - Chọn phiên bản 1.20.1
 - Khởi động Minecraft > Chọn Multiplayer > Add a Server
-- Nhập IP: direct.satserver.satdevelop.com:25565
+- Nhập IP: direct.satserver.satdevelop.com:9999
 - Bắt đầu game
 
+## UI Echanment
+- Server resource pack:
+- How to install
+
+  
 ## Install Guide (for Forge Client) [OPTIONAL]
 
 - Cài đặt Forge tại thư mục ./forge-<version>-installer.jar ở github
