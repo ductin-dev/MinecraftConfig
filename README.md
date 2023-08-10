@@ -1,7 +1,14 @@
 # MinecraftConfig
-## Install Guide (for clients) [REQUIRED]
+## Quick Guide
 
-- Tải và cài đặt TLaucher
+- Cài đặt TLaucher https://tlauncher.org/en
+- Chọn phiên bản 1.20.1
+- Khởi động Minecraft > Chọn Multiplayer > Add a Server
+- Nhập IP: direct.satserver.satdevelop.com:25565
+- Bắt đầu game
+
+## Install Guide (for Forge Client) [OPTIONAL]
+
 - Cài đặt Forge tại thư mục ./forge-<version>-installer.jar ở github
 - Khởi động TLaucher, tại menu chọn version, chọn phiên bản Forge vừa cài đặt và nhấn Install > Enter the game
 - Khi game khởi động xong, chọn Mod > Open Mod Folder
@@ -15,14 +22,8 @@
 - Vào thư mục ./resourcepacks/.. và giải nén toàn bộ thư mục con bên trong (mỗi thư mục con tương ứng 1 pack khác nhau). Lưu ý: Không cần giải nén thư mục shaderpacks
 
 - Khởi động game và vào menu resourcepack chọn pack phù hợp, tương tự với shader
-  
-## Connection (for clients)
 
-- Khởi động Minecraft > Chọn Multiplayer > Add a Server
-- Nhập IP: 144.91.104.7:25565
-- Bắt đầu game
-
-## Mods
+## Mods [OPTIONAL]
 - **Alexs Mobs**: Thêm Mobs, Quái Vật, Items
   + **Dependency Mod**: Citadel
   
