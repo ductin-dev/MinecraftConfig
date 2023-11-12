@@ -7,27 +7,53 @@ services:
     volumes:
       - ../minecraftdata:/data
       - ./plugins:/plugins
-      - ./mods:/mods
     ports:
       - 25565:25565
     environment:
       EULA: "TRUE"
+      SERVER_NAME: "Satdevelop Serrver"
       MOTD: "Duc Tin had gently flicked his finger to create this map, what Fsofters can not do"
       PVP: "FALSE"
+      ONLINE_MODE: "FALSE"
+      # ============================================
+      MAX_PLAYERS: 5
+      MEMORY: "4G"
+      VERSION: "1.20.1"
+      # ============================================
+      # ENABLE_WHITELIST: "TRUE"
+      # ENFORCE_WHITELIST: "TRUE"
+      OVERRIDE_ICON: "TRUE"
+      OVERRIDE_OPS: "TRUE"
+      OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
+      ICON: "https://github.com/ductin-dev/MinecraftConfig/blob/main/icon.jpg?raw=true"
+      # ============================================
       FORGEVERSION: "47.2.5"
       FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.2.5-installer.jar?raw=true
       CF_API_KEY: '$2a$10$Gyo1EUXyHinvMVXWBLQHLu6c3LiJVtM3J6Ma8VmErd2a1x9MiLVE2'
-      ONLINE_MODE: "FALSE"
-      MEMORY: "4G"
-      VERSION: "1.20.1"
-      OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
-      ICON: "https://github.com/ductin-dev/MinecraftConfig/blob/main/icon.jpg?raw=true"
-      OVERRIDE_ICON: "TRUE"
-      OVERRIDE_OPS: "TRUE"
-      # ENABLE_WHITELIST: "TRUE"
-      # ENFORCE_WHITELIST: "TRUE"
+      CURSEFORGE_FILES: |
+        # (+) Health
+        https://www.curseforge.com/minecraft/mc-mods/heart-balance/files/4623906
+        https://www.curseforge.com/minecraft/mc-mods/ydms-mobhealthbar-mod/files/4818965
+
+        # (+) Life
+        https://www.curseforge.com/minecraft/mc-mods/darkloot-better-mob-loot/files/4732977
+        https://www.curseforge.com/minecraft/mc-mods/treechop/files/4675430
+
+        # (+) MC
+        https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability/files/4637926
+        https://www.curseforge.com/minecraft/mc-mods/jei/files/4712868
+        https://www.curseforge.com/minecraft/mc-mods/second-chance-forge/files/4582583
+
+        # (-) Structure
+        https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end/files/4525273
+        https://www.curseforge.com/minecraft/mc-mods/better-village-forge/files/4703624
+        https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages/files/4767491
+        https://www.curseforge.com/minecraft/mc-mods/explorify/files/4621173
+
+      # ============================================
       # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
       # RESOURCE_PACK_ENFORCE: TRUE
+      # ============================================
       RCON_CMDS_STARTUP:  |-
         gamerule keepInventory true
         pregen start 200
