@@ -5,9 +5,9 @@ services:
     container_name: minecraft-server
     image: itzg/minecraft-server
     volumes:
-      - ../minecraftdata:/data
-      - ../plugins:/plugins
-      - ../mods:/mods
+      - ./minecraftdata:/data
+      - ./plugins:/plugins
+      - ./mods:/mods
     ports:
       - 25565:25565
     environment:
@@ -23,8 +23,8 @@ services:
       OVERRIDE_OPS: "TRUE"
       # ENABLE_WHITELIST: "TRUE"
       # ENFORCE_WHITELIST: "TRUE"
-      RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
-      RESOURCE_PACK_ENFORCE: TRUE
+      # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
+      # RESOURCE_PACK_ENFORCE: TRUE
     tty: TRUE
     stdin_open: TRUE
 volumes:
