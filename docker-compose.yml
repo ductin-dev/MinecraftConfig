@@ -5,15 +5,18 @@ services:
     container_name: minecraft-server
     image: itzg/minecraft-server
     volumes:
-      - ./minecraftdata:/data
+      - ../minecraftdata:/data
       - ./plugins:/plugins
       - ./mods:/mods
     ports:
       - 25565:25565
     environment:
       EULA: "TRUE"
+      MOTD: "Duc Tin had gently flicked his finger to create this map, what Fsofters can not do"
+      PVP: "FALSE"
       FORGEVERSION: "47.2.5"
       FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.2.5-installer.jar?raw=true
+      CF_API_KEY: '$2a$10$Gyo1EUXyHinvMVXWBLQHLu6c3LiJVtM3J6Ma8VmErd2a1x9MiLVE2'
       ONLINE_MODE: "FALSE"
       MEMORY: "4G"
       VERSION: "1.20.1"
@@ -25,6 +28,9 @@ services:
       # ENFORCE_WHITELIST: "TRUE"
       # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
       # RESOURCE_PACK_ENFORCE: TRUE
+      RCON_CMDS_STARTUP:  |-
+        gamerule keepInventory true
+        pregen start 200
     tty: TRUE
     stdin_open: TRUE
 volumes:
