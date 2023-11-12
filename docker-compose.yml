@@ -2,30 +2,30 @@ version: "3"
 
 services:
   minecraft:
+    container_name: minecraft-server
     image: itzg/minecraft-server
     volumes:
-      - minecraftdata:/data
-      - /usr/games/Minecraft/plugins:/plugins
+      - ./minecraftdata:/data
+      - ./plugins:/plugins
     ports:
       - 25565:25565
     environment:
       EULA: "TRUE"
-      TYPE: "FORGE"
+      FORGEVERSION: "47.2.5"
+      FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.2.5-installer.jar?raw=true
       ONLINE_MODE: "FALSE"
-      MEMORY: "3G"
-      VERSION: "LATEST"
-
+      MEMORY: "4G"
+      VERSION: "1.20.1"
       OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
-      ICON: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/IMG_20201010_164921.jpg"
-      OVERRIDE_ICON : "TRUE"
-      OVERRIDE_OPS : "TRUE"
-      ENABLE_COMMAND_BLOCK : "TRUE"
-
+      ICON: "https://github.com/ductin-dev/MinecraftConfig/blob/main/icon.jpg?raw=true"
+      OVERRIDE_ICON: "TRUE"
+      OVERRIDE_OPS: "TRUE"
       # ENABLE_WHITELIST: "TRUE"
       # ENFORCE_WHITELIST: "TRUE"
+      RESOURCE_PACK: http://link.com/to/pack.zip?=1
+      RESOURCE_PACK_ENFORCE: TRUE
     tty: TRUE
     stdin_open: TRUE
-    restart: unless-stopped
 volumes:
   minecraftdata:
     external: true
