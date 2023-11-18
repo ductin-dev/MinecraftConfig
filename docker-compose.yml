@@ -28,7 +28,7 @@ services:
       ICON: "https://github.com/ductin-dev/MinecraftConfig/blob/main/icon.jpg?raw=true"
       # ============================================
       FORGEVERSION: "47.0.45"
-      # FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.2.5-installer.jar?raw=true
+      FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.0.45-installer.jar?raw=true
       COPY_MODS_DEST: ./mods
 
       # ============================================
