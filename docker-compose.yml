@@ -29,26 +29,7 @@ services:
       # ============================================
       FORGEVERSION: "47.2.5"
       FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.2.5-installer.jar?raw=true
-      CF_API_KEY: '$2a$10$Gyo1EUXyHinvMVXWBLQHLu6c3LiJVtM3J6Ma8VmErd2a1x9MiLVE2'
-      CURSEFORGE_MODS: "4623906,4818965,4732977,4675430,4637926,4712868,4582583,4525273,4703624,4767491,4621173"
-      CURSEFORGE_FILES: |
-        # (+) Health
-        https://www.curseforge.com/minecraft/mc-mods/heart-balance/files/4623906
-        https://www.curseforge.com/minecraft/mc-mods/ydms-mobhealthbar-mod/files/4818965
-
-        # (+) Life
-        https://www.curseforge.com/minecraft/mc-mods/darkloot-better-mob-loot/files/4732977
-        https://www.curseforge.com/minecraft/mc-mods/treechop/files/4675430
-
-        # (+) MC
-        https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability/files/4637926
-        https://www.curseforge.com/minecraft/mc-mods/jei/files/4712868
-        https://www.curseforge.com/minecraft/mc-mods/second-chance-forge/files/4582583
-
-        # (-) Structure
-        https://www.curseforge.com/minecraft/mc-mods/better-village-forge/files/4703624
-        https://www.curseforge.com/minecraft/mc-mods/villages-and-pillages/files/4767491
-        https://www.curseforge.com/minecraft/mc-mods/explorify/files/4621173
+      COPY_MODS_DEST: ./mods
 
       # ============================================
       # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
