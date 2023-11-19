@@ -6,7 +6,7 @@ services:
     image: itzg/minecraft-server
     volumes:
       - ../minecraftdata:/data
-      - ./plugins:/plugins
+
     ports:
       - 25565:25565
     environment:
@@ -16,6 +16,7 @@ services:
       PVP: "FALSE"
       ONLINE_MODE: "FALSE"
       # ============================================
+      TYPE: FORGE
       MAX_PLAYERS: 5
       MEMORY: "4G"
       VERSION: "1.20.1"
@@ -29,7 +30,6 @@ services:
       # ============================================
       FORGEVERSION: "47.0.45"
       FORGE_INSTALLER_URL: https://github.com/ductin-dev/MinecraftConfig/blob/main/forge-1.20.1-47.0.45-installer.jar?raw=true
-      COPY_MODS_DEST: ./mods
 
       # ============================================
       # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
