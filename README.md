@@ -1,15 +1,15 @@
 # MinecraftConfig
 ## Quick Guide
-- 1. Cài đặt TLaucher https://tlauncher.org/en
-- 2. Khởi động TLaucher, chọn phiên bản ```1.20.1``` (with forge 47.0.45)
-- 3. Khởi động Minecraft -> Chọn Multiplayer -> Add a Server
-- 4. Kết nối đến server: ```direct.satserver.satdevelop.com:9999``` và bắt đầu game
+1. Cài đặt TLaucher https://tlauncher.org/en
+2. Khởi động TLaucher, chọn phiên bản ```1.20.1``` (with forge 47.0.45)
+3. Khởi động Minecraft -> Chọn Multiplayer -> Add a Server
+4. Kết nối đến server: ```direct.satserver.satdevelop.com:9999``` và bắt đầu game
 
 ## Install Mods
 Khi kết nối tới server sẽ có thông báo lỗi nếu thiếu hoặc dư mods, để khắc phục:
-- 1. Ấn ```Open Mod Folder```
-- 2. Pull thư mục ```\mods``` ở Github này và copy/replace toàn bộ vào thư mục trên máy
-- 3. Vào lại game
+1. Ấn ```Open Mod Folder```
+2. Pull thư mục ```\mods``` ở Github này và copy/replace toàn bộ vào thư mục trên máy
+3. Vào lại game
 
 ## Install Plugins
 Phiên bản hiện tại không có Plugins nào
