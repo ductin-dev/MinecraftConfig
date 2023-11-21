@@ -1,7 +1,7 @@
 # MinecraftConfig
 ## Quick Guide
 1. Cài đặt TLaucher https://tlauncher.org/en
-2. Khởi động TLaucher, chọn phiên bản ```1.20.1``` (with forge 47.0.45)
+2. Khởi động TLaucher, chọn phiên bản ```1.20.1 Forge Optifine``` (with forge 47.0.45)
 3. Khởi động Minecraft -> Chọn Multiplayer -> Add a Server
 4. Kết nối đến server: ```direct.satserver.satdevelop.com:9999``` và bắt đầu game
 
