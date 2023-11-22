@@ -24,8 +24,12 @@ services:
       # ENABLE_WHITELIST: "TRUE"
       # ENFORCE_WHITELIST: "TRUE"
       OVERRIDE_ICON: "TRUE"
-      OVERRIDE_OPS: "TRUE"
-      OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
+      # OVERRIDE_OPS: "TRUE"
+      # OPS_FILE: "https://raw.githubusercontent.com/ductin-dev/MinecraftConfig/main/ops.json"
+      OPS: |
+        satellite1012
+        admin1012
+        phuongnhu123
       ICON: "https://github.com/ductin-dev/MinecraftConfig/blob/main/icon.jpg?raw=true"
       # ============================================
       FORGEVERSION: "47.0.45"
@@ -35,9 +39,9 @@ services:
       # RESOURCE_PACK: https://github.com/ductin-dev/MinecraftConfig/blob/main/resourcepacks/Luna64x_1.20_Freepack.zip
       # RESOURCE_PACK_ENFORCE: TRUE
       # ============================================
-      RCON_CMDS_STARTUP:  |-
-        gamerule keepInventory true
-        pregen start 200
+      # RCON_CMDS_STARTUP:  |-
+      #   gamerule keepInventory true
+      #   pregen start 200
     tty: TRUE
     stdin_open: TRUE
 volumes:
