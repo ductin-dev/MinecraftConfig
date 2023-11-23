@@ -3,7 +3,8 @@
 1. Cài đặt TLaucher https://tlauncher.org/en
 2. Khởi động TLaucher, chọn phiên bản ```1.20.1 Forge Optifine``` (with forge 47.0.45)
 3. Khởi động Minecraft -> Chọn Multiplayer -> Add a Server
-4. Kết nối đến server: ```direct.satserver.satdevelop.com:9999``` và bắt đầu game
+4. Kết nối đến server trong nhóm chat: ```...elop.com:9999``` và bắt đầu game
+
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/9ac7cf5f-e5d1-4644-bd6c-51310b4a9346)
 
 ## Install Mods
