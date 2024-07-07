@@ -13,26 +13,43 @@
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/af402887-3e65-447c-87dc-7054b46a3f34)
 
 6. ⭐ Ấn "Bắt đầu chơi" hoặc "Enter the game" hoặc "Install" (Nút vàng)
+7. ⭐ Chọn Multiplayer và dùng connection detail trong discord
 
 ## ⬇️ Mod List
 TL skin and cape
+
 OptiFine
+
 FPS optimizer
+
 Alex's Mobs
+
 YDM's MobHealth
+
 HT's TreeChop
+
 Xaero's Minimap
+
 Waystones
+
 Just Enough Item
+
 Balm (Forge Edition)
+
 Citadel
+
 Explorify
+
 Additional Structure
+
 Remastered Structure
+
 
 ## ⬇️ Shader List
 RedHat Shaders v34.0 (Optional)
 
+
+---
 # MinecraftConfig OPTION B
 ## 🔑 Connect Guide: Connect linux server (For server mods)
 1. Cài đặt TLaucher https://tlauncher.org/en
