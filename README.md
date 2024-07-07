@@ -1,5 +1,40 @@
-# MinecraftConfig
-## Quick Guide
+# MinecraftConfig OPTION A
+## ✅ Quick way! (NEW)
+1. ⭐ Cài đặt TLaucher https://tlauncher.org/en
+2. ⭐ Khởi động TLaucher, nhập username của bạn và ấn vào nút bên dưới
+![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/e95829b7-c7db-461a-80da-5e1d6ccff98c)
+
+3. ⭐ Ấn "Create"
+![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/d7ea21cb-0473-4e83-8648-29946f0e5b4a)
+
+4. ⭐ Truy cập Tab "Mods" và cài đầy đủ các mod ở mục Mod List bên dưới (nếu thiếu sẽ lỗi không khởi động game được)
+5. ⭐ Tương tự, truy cập Tab "Shaderpacks" và cài đầy đủ các shaderpack ở mục Shader List bên dưới (nếu thiếu sẽ lỗi không khởi động game được)
+![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/d16c1a96-b142-4f1a-8222-50cb9b048cbf)
+![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/af402887-3e65-447c-87dc-7054b46a3f34)
+
+6. ⭐ Ấn "Bắt đầu chơi" hoặc "Enter the game" hoặc "Install" (Nút vàng)
+
+## ⬇️ Mod List
+TL skin and cape
+OptiFine
+FPS optimizer
+Alex's Mobs
+YDM's MobHealth
+HT's TreeChop
+Xaero's Minimap
+Waystones
+Just Enough Item
+Balm (Forge Edition)
+Citadel
+Explorify
+Additional Structure
+Remastered Structure
+
+## ⬇️ Shader List
+RedHat Shaders v34.0 (Optional)
+
+# MinecraftConfig OPTION B
+## 🔑 Connect Guide: Connect linux server (For server mods)
 1. Cài đặt TLaucher https://tlauncher.org/en
 2. Khởi động TLaucher, chọn phiên bản ```1.20.1 Forge Optifine``` (with forge 47.0.45)
 3. Khởi động Minecraft -> Chọn Multiplayer -> Add a Server
