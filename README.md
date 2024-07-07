@@ -13,7 +13,7 @@
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/af402887-3e65-447c-87dc-7054b46a3f34)
 
 6. ⭐ Ấn "Bắt đầu chơi" hoặc "Enter the game" hoặc "Install" (Nút vàng)
-7. ⭐ Chọn Multiplayer và dùng connection detail trong discord
+7. ⭐ Chọn Multiplayer và dùng connection detail trong discord [tại đây](https://discord.com/channels/1083571413216141413/1090331160367878214/1259540240406941859)
 
 ## ⬇️ Mod List
 TL skin and cape
