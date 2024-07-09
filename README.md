@@ -1,5 +1,5 @@
 # MinecraftConfig OPTION A
-## ✅ Quick way! (NEW)
+## ✅ Quick way! (NEW 1.20.1)
 1. ⭐ Cài đặt TLaucher https://tlauncher.org/en
 2. ⭐ Khởi động TLaucher, nhập username của bạn và ấn vào nút bên dưới
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/e95829b7-c7db-461a-80da-5e1d6ccff98c)
