@@ -8,7 +8,7 @@
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/d7ea21cb-0473-4e83-8648-29946f0e5b4a)
 
 4. ⭐ Truy cập Tab "Mods" và cài đầy đủ các mod ở mục Mod List bên dưới (nếu thiếu sẽ lỗi không khởi động game được)
-5. ⭐ Tương tự, truy cập Tab "Shaderpacks" và cài đầy đủ các shaderpack ở mục Shader List bên dưới (nếu thiếu sẽ lỗi không khởi động game được)
+5. ⭐ OPTIONAL Tương tự, truy cập Tab "Shaderpacks", "Resource-packs" và cài đầy đủ các pack ở mục Shader List, Resource-packs List bên dưới
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/d16c1a96-b142-4f1a-8222-50cb9b048cbf)
 ![image](https://github.com/ductin-dev/MinecraftConfig/assets/59552083/af402887-3e65-447c-87dc-7054b46a3f34)
 
@@ -18,36 +18,43 @@
 ## ⬇️ Mod List
 TL skin and cape
 
-OptiFine
+✅ Terralith
+
+✅ YUNG's Better End
+
+✅ YUNG's Better Nether
+
+✅ OptiFine
 
 FPS optimizer
 
-Alex's Mobs
+✅ Alex's Mobs
 
-YDM's MobHealth
+✅ YDM's MobHealth
 
-HT's TreeChop
+✅ FallingTree
 
-Xaero's Minimap
-
-Waystones
+✅ Xaero's Minimap
 
 Just Enough Item
 
-Balm (Forge Edition)
+✅ Balm (Forge Edition)
 
-Citadel
+✅ Citadel
 
-Explorify
+✅ Explorify
 
-Additional Structure
+✅ Additional Structure
 
-Remastered Structure
+✅ Remastered Structure
 
+## ⬇️ Resource-packs List
+Glowing (Optional)
+
+Hyper realistic sky (Optional)
 
 ## ⬇️ Shader List
 RedHat Shaders v34.0 (Optional)
-
 
 ---
 # MinecraftConfig OPTION B
