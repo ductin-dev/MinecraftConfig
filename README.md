@@ -34,6 +34,7 @@ Lưu ý:
 - Java khuyến nghị: <b>Java 21.0+</b>
 - RAM khuyến nghị: <b>4GB+</b>
   <br>
+<<<<<<< HEAD
 
 ### Additional settings
 
@@ -53,3 +54,38 @@ Lưu ý:
 
 - Run minecraft instance on <b>modrinth</b> app
 - Using latest version of <b>xxx.mrpack</b> file in <b>mrpack</b> folder to import server settings, mods, resource pack, etc.
+=======
+
+### Additional settings
+
+- <b>Mods:</b> Mặc định sẽ enable toàn bộ mods. Khuyến nghị bạn không nên thay đổi gì thêm như là cài thêm mods, etc, vì sẽ gây mất tương thích với phiên bản Minecraft và mod engine và sẽ bị lỗi khi kết nối tới server.
+- <b>Resource pack:</b> Một số resource pack cần bạn <b>bật thủ công</b> trong menu <b>Resource Pack (ảnh bên dưới)</b>, tuỳ chỉnh theo sở thích của bạn vì nó chỉ thay đổi giao diện đồ hoạ ở máy của bạn, không ảnh hưởng tới server.
+  ![image](./assets/image-20240519161014-1.png)
+- <b>Shader:</b> Tương tự như resource pack, bạn có thể tuỳ chỉnh shader theo sở thích của bạn, nhưng khuyến nghị nên bật cho đẹp nếu máy bạn mạnh.
+  Hiện tại chúng tôi đang sử dụng <b>Iris Shader</b>, bạn có thể truy cập menu của shader tại <b>Tuỳ Chọn Hình Ảnh</b> trong menu của game.
+
+<br>
+<hr>
+
+# 💻 Admin section
+
+## Install Guide (for Detached server)
+
+- Using docker-compose.yml file
+
+## Install for LAN server
+
+- Run minecraft instance on <b>modrinth</b> app
+- Using latest version of <b>xxx.mrpack</b> file in <b>mrpack</b> folder to import server settings, mods, resource pack, etc.
+  inecraft hiện tại: `1.21.11`
+- Mod engine hiện tại: `Fabric 0.18.4`
+- Java khuyến nghị: `Java 21.0+`
+- RAM khuyến nghị: `4GB+`
+
+### Additional settings
+
+- Mods: Mặc định sẽ bật toàn bộ mods. Không nên cài thêm hoặc chỉnh nhiều vì dễ mất tương thích với phiên bản Minecraft và mod engine hiện tại.
+- Resource pack: Một số resource pack cần bật thủ công trong menu `Resource Pack`. Đây chỉ là phần hiển thị phía máy của bạn, không ảnh hưởng tới server.
+  ![Resource pack menu](./assets/image-20240519161014-1.png)
+- Shader: Có thể tùy chỉnh theo cấu hình máy. Hiện tại hệ thống đang dùng `Iris Shader`, bạn có thể vào `Tùy chọn hình ảnh` trong game để chỉnh.
+>>>>>>> edd0067 (update readme)
