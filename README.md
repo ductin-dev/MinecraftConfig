@@ -1,6 +1,6 @@
 # MinecraftConfig
 
-## ✅ Quick way! (1.20.1)
+## ✅ Quick way! (NEW 1.21.11)
 
 Cách cài nhanh cho người mới:
 
