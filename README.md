@@ -64,8 +64,10 @@ Lưu ý:
 - <b>Shader:</b> Tương tự như resource pack, bạn có thể tuỳ chỉnh shader theo sở thích của bạn, nhưng khuyến nghị nên bật cho đẹp nếu máy bạn mạnh.
   Hiện tại chúng tôi đang sử dụng <b>Iris Shader</b>, bạn có thể truy cập menu của shader tại <b>Tuỳ Chọn Hình Ảnh</b> trong menu của game.
 
-<br>
-<hr>
+- Mods: Mặc định sẽ bật toàn bộ mods. Không nên cài thêm hoặc chỉnh nhiều vì dễ mất tương thích với phiên bản Minecraft và mod engine hiện tại.
+- Resource pack: Một số resource pack cần bật thủ công trong menu `Resource Pack`. Đây chỉ là phần hiển thị phía máy của bạn, không ảnh hưởng tới server.
+  ![Resource pack menu](./assets/image-20240519161014-1.png)
+- Shader: Có thể tùy chỉnh theo cấu hình máy. Hiện tại hệ thống đang dùng `Iris Shader`, bạn có thể vào `Tùy chọn hình ảnh` trong game để chỉnh.
 
 # 💻 Admin section
 
