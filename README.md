@@ -43,11 +43,6 @@ Lưu ý:
 - <b>Shader:</b> Tương tự như resource pack, bạn có thể tuỳ chỉnh shader theo sở thích của bạn, nhưng khuyến nghị nên bật cho đẹp nếu máy bạn mạnh.
   Hiện tại chúng tôi đang sử dụng <b>Iris Shader</b>, bạn có thể truy cập menu của shader tại <b>Tuỳ Chọn Hình Ảnh</b> trong menu của game.
 
-- Mods: Mặc định sẽ bật toàn bộ mods. Không nên cài thêm hoặc chỉnh nhiều vì dễ mất tương thích với phiên bản Minecraft và mod engine hiện tại.
-- Resource pack: Một số resource pack cần bật thủ công trong menu `Resource Pack`. Đây chỉ là phần hiển thị phía máy của bạn, không ảnh hưởng tới server.
-  ![Resource pack menu](./assets/image-20240519161014-1.png)
-- Shader: Có thể tùy chỉnh theo cấu hình máy. Hiện tại hệ thống đang dùng `Iris Shader`, bạn có thể vào `Tùy chọn hình ảnh` trong game để chỉnh.
-
 # 💻 Admin section
 
 ## Install Guide (for Detached server)
@@ -58,14 +53,3 @@ Lưu ý:
 
 - Run minecraft instance on <b>modrinth</b> app
 - Using latest version of <b>xxx.mrpack</b> file in <b>mrpack</b> folder to import server settings, mods, resource pack, etc.
-  inecraft hiện tại: `1.21.11`
-- Mod engine hiện tại: `Fabric 0.18.4`
-- Java khuyến nghị: `Java 21.0+`
-- RAM khuyến nghị: `4GB+`
-
-### Additional settings
-
-- Mods: Mặc định sẽ bật toàn bộ mods. Không nên cài thêm hoặc chỉnh nhiều vì dễ mất tương thích với phiên bản Minecraft và mod engine hiện tại.
-- Resource pack: Một số resource pack cần bật thủ công trong menu `Resource Pack`. Đây chỉ là phần hiển thị phía máy của bạn, không ảnh hưởng tới server.
-  ![Resource pack menu](./assets/image-20240519161014-1.png)
-- Shader: Có thể tùy chỉnh theo cấu hình máy. Hiện tại hệ thống đang dùng `Iris Shader`, bạn có thể vào `Tùy chọn hình ảnh` trong game để chỉnh.
